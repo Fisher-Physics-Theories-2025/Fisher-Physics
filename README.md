@@ -56,6 +56,8 @@ All documents authored by **Clinton Fisher** (2025).
 Each file has been hashed and timestamped using [OpenTimestamps](https://opentimestamps.org) for independent proof of authorship.
 
 - [The Light-Speed Boundary Hypothesis (PDF)](./LSBH/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.pdf)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15709421.svg)](https://doi.org/10.5281/zenodo.15709421)
+
 
 
 ---
