@@ -55,6 +55,9 @@ These three hypotheses form a unified cosmological model:
 All documents authored by **Clinton Fisher** (2025).  
 Each file has been hashed and timestamped using [OpenTimestamps](https://opentimestamps.org) for independent proof of authorship.
 
+- [The Light-Speed Boundary Hypothesis (PDF)](./LSBH/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.pdf)
+
+
 ---
 
 ## 📬 Contact
