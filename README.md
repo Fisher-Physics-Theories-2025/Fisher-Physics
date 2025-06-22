@@ -77,3 +77,10 @@ If you’re a physicist, philosopher, or academic reviewing this repository, fee
 
 ---
 
+# Fisher Physics Theories
+
+**Founder of Triton Energy Systems. Author of the Finite Perception Cosmology Hypotheses.**  
+> Timestamped. Public. Peer-ready.
+
+## 📄 Published Hypotheses
+...
