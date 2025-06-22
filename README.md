@@ -1,5 +1,24 @@
 # 🧠 Fisher Physics Theories – Clinton Fisher (2025)
 
+---
+## 📌 The Only Question That Matters
+
+**Can anything exist at the speed of light?**
+
+This is the foundation of the Finite Perception Cosmology Hypotheses.
+
+If the answer is **no**, then the entire model holds:
+
+- The universe is finite.
+- Structure dissolves at the light-speed boundary.
+- Perception defines being.
+- And what lies beyond is not hidden — but **Nothing**.
+
+> If light-speed is the edge of existence, then there is no need for dark energy, inflation, or faster-than-light paradoxes.
+
+This is not a theory to believe — it is a boundary to choose.
+
+
 This repository contains the original cosmological hypotheses developed by Clinton Fisher in 2025. These works propose a new boundary-based framework for understanding time, space, entropy, and universal structure — challenging classical assumptions of infinity and reconciling relativity, quantum mechanics, and cosmological expansion.
 
 All hypotheses are timestamped, publicly archived, and accessible via DOI.
