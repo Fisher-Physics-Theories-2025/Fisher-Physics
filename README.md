@@ -1,79 +1,79 @@
-# Fisher Physics Theories (2025)
-**Clinton Fisher**  
-A collection of original theoretical physics hypotheses proposing new foundations for time, spacetime, quantum collapse, and cosmogenesis.
+# 🧠 Fisher Physics Theories – Clinton Fisher (2025)
 
-## 🔷 1. The Light-Speed Boundary Hypothesis (LSBH)
-**SHA-256 Verified | Clinton Fisher, 2025**
+This repository contains the original cosmological hypotheses developed by Clinton Fisher in 2025. These works propose a new boundary-based framework for understanding time, space, entropy, and universal structure — challenging classical assumptions of infinity and reconciling relativity, quantum mechanics, and cosmological expansion.
 
-This hypothesis reframes the speed of light as the **ontological boundary** between existence and nonexistence. At or beyond light speed, nothing exists — not even laws or logic. The **Big Bang** is reinterpreted as the **first boundary breach**, where something structured crossed from this timeless null into causal spacetime. It proposes that accelerating matter to this boundary may trigger new universe creation.
-
-📄 [Download DOCX](./The%20Light-Speed%20Boundary%20Hypothesis%20(LSBH)/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.docx)  
-📄 [Download PDF](./The%20Light-Speed%20Boundary%20Hypothesis%20(LSBH)/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.pdf)  
-📎 [OpenTimestamps Proof (.ots)](./The%20Light-Speed%20Boundary%20Hypothesis%20(LSBH)/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.docx.ots)
+All hypotheses are timestamped, publicly archived, and accessible via DOI.
 
 ---
 
-## 🔷 2. The Observer Threshold Hypothesis
-**SHA-256 Verified | Clinton Fisher, 2025**
+## 📚 Core Hypotheses
 
-This hypothesis proposes that time, causality, and classical reality emerge only when three things converge:
-- Light (timeless in its own frame)
-- Curved spacetime (gravity)
-- Observation (measurement)
-
-Observation is not passive; it is **generative**, acting as the **threshold event** where reality is constructed moment-by-moment.
-
-📄 [Download DOCX](./The%20Observer%20Threshold%20Hypothesis/Observer%20Threshold%20Hypothesis_FINAL.docx)  
-📄 [Download PDF](./The%20Observer%20Threshold%20Hypothesis/Observer%20Threshold%20Hypothesis_FINAL.pdf)
-
----
-
-## 🔷 3. The Jellfold Hypothesis
-**SHA-256 Verified | Clinton Fisher, 2025**
-
-Reality is a seamless, fluid entangled manifold — like a quantum jelly. Observation, gravity, and collapse cause **deformations** in this substrate, creating spacetime ripples. The Jellfold model proposes that time and causality are not fundamental but emerge from **topological pressure points** in this field.
-
-📄 [Download DOCX](./The%20Jellfold%20Hypothesis/Jellfold%20Hypothesis_FINAL.docx)  
-📄 [Download PDF](./The%20Jellfold%20Hypothesis/Jellfold%20Hypothesis_FINAL.pdf)
-
----
-
-## 🔗 Interconnected Framework
-
-These three hypotheses form a unified cosmological model:
-
-| Layer | Function |
-|-------|----------|
-| **LSBH** | The origin of spacetime from a boundary crossing (cosmogenesis) |
-| **Jellfold** | The structure of spacetime as a seamless entangled fluid |
-| **Observer Threshold** | The activation point of reality through measurement |
-
----
-
-## 📜 Authorship & Verification
-
-All documents authored by **Clinton Fisher** (2025).  
-Each file has been hashed and timestamped using [OpenTimestamps](https://opentimestamps.org) for independent proof of authorship.
-
-- [The Light-Speed Boundary Hypothesis (PDF)](./LSBH/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.pdf)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15709421.svg)](https://doi.org/10.5281/zenodo.15709421)
-
-### The Light-Speed Cycle Hypothesis (2025)
-- DOI: [10.5281/zenodo.15713769](https://doi.org/10.5281/zenodo.15713769)
-- [Read on Zenodo](https://zenodo.org/records/15713769)
-- Summary: Proposes the universe may cyclically dissolve into nonexistence at light speed, triggering repeated Big Bangs via boundary rupture.
-
-
----
-
-## 📬 Contact
-
-For inquiries or academic interest, please email: [your.email@domain.com]
-
----
-
-### 🔭 The Finite Universe Boundary Hypothesis (2025)
-- **DOI:** [10.5281/zenodo.15716010](https://doi.org/10.5281/zenodo.15716010)
-- **Read on Zenodo:** [https://zenodo.org/records/15716010](https://zenodo.org/records/15716010)
+### 1. 🚨 The Light-Speed Boundary and Big Bang Hypothesis
+- **DOI:** [10.5281/zenodo.15709421](https://doi.org/10.5281/zenodo.15709421)
 - **Summary:**  
-  This hypothesis proposes that the universe is not infinite, but bounded by a relativistic dissolution shell where all mass-energy fades as expansion velocity asymptotically approaches the speed of light. At this boundary, time, mass, and entropy collapse to zero, marking the measurable outer edge of existence. It integrates with prior hypotheses to form a complete cyclic model of origin, expansion, boundary, and rebirth.
+  Proposes that the Big Bang marks a rupture from a realm of non-being at the speed of light. At \(v = c\), time, entropy, and existence cannot persist. This boundary marks both the origin of being and the outer limit of physics.
+
+---
+
+### 2. 🔁 The Light-Speed Cycle Hypothesis
+- **DOI:** [10.5281/zenodo.15713769](https://doi.org/10.5281/zenodo.15713769)
+- **Summary:**  
+  Suggests the universe is cyclic. As cosmic expansion accelerates toward \(v \to c\), existence dissolves — triggering a new Big Bang. This forms a repeating light-speed-driven cosmological cycle.
+
+---
+
+### 3. 🌌 The Finite Universe Boundary Hypothesis
+- **DOI:** [10.5281/zenodo.15716010](https://doi.org/10.5281/zenodo.15716010)
+- **Summary:**  
+  Reframes the universe as finite, not infinite. At a relativistic boundary (\(v = c\)), mass, entropy, and time collapse to zero. This creates a measurable “dissolution shell” — the true limit of reality.
+
+---
+
+### 4. 🧩 The Observer Threshold Hypothesis
+- **Summary:**  
+  Describes observation as the convergence of light (timeless), gravity (curved time), and quantum measurement. Reality forms only when these align — defining collapse not as passive detection, but active creation.
+
+---
+
+### 5. 🪐 The Jellfold Hypothesis
+- **Summary:**  
+  Envisions the universe as a seamless, entangled field. Collapse events (e.g. mass, measurement) create localized folds — generating time, causality, and structure. The Jellfold contains all other hypotheses as subsystems.
+
+---
+
+## 👨‍🔬 Author
+
+**Clinton Fisher**  
+*Independent Theoretical Physicist*  
+- ORCID: [0009-0007-1496-3835](https://orcid.org/0009-0007-1496-3835)
+- Affiliation: *Fisher Physics Theories (2025)*
+
+---
+
+## 🔏 License
+
+All works are published under:  
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**  
+You may cite, reuse, or reference with appropriate attribution.
+
+---
+
+## 🔗 Citation Example
+
+
+---
+
+## 🛰️ Future Inclusions
+
+- Visual diagrams for each model
+- LaTeX-formatted PDF collection
+- Preprint bundling and cross-submission to arXiv/ResearchGate
+
+---
+
+## ⭐ Stargazers & Reviewers
+
+If you’re a physicist, philosopher, or academic reviewing this repository, feel free to star, fork, or contact for collaboration. All work is publicly timestamped and open for dialogue.
+
+---
+
