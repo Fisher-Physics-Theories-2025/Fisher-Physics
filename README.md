@@ -58,6 +58,10 @@ Each file has been hashed and timestamped using [OpenTimestamps](https://opentim
 - [The Light-Speed Boundary Hypothesis (PDF)](./LSBH/The%20Light-Speed%20Boundary%20Hypothesis_FINAL.pdf)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15709421.svg)](https://doi.org/10.5281/zenodo.15709421)
 
+### The Light-Speed Cycle Hypothesis (2025)
+- DOI: [10.5281/zenodo.15713769](https://doi.org/10.5281/zenodo.15713769)
+- [Read on Zenodo](https://zenodo.org/records/15713769)
+- Summary: Proposes the universe may cyclically dissolve into nonexistence at light speed, triggering repeated Big Bangs via boundary rupture.
 
 
 ---
