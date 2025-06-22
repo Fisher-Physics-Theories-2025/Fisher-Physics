@@ -69,3 +69,11 @@ Each file has been hashed and timestamped using [OpenTimestamps](https://opentim
 ## 📬 Contact
 
 For inquiries or academic interest, please email: [your.email@domain.com]
+
+---
+
+### 🔭 The Finite Universe Boundary Hypothesis (2025)
+- **DOI:** [10.5281/zenodo.15716010](https://doi.org/10.5281/zenodo.15716010)
+- **Read on Zenodo:** [https://zenodo.org/records/15716010](https://zenodo.org/records/15716010)
+- **Summary:**  
+  This hypothesis proposes that the universe is not infinite, but bounded by a relativistic dissolution shell where all mass-energy fades as expansion velocity asymptotically approaches the speed of light. At this boundary, time, mass, and entropy collapse to zero, marking the measurable outer edge of existence. It integrates with prior hypotheses to form a complete cyclic model of origin, expansion, boundary, and rebirth.
